@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 90,
+    "left": 0,
+    "width": 3069,
+    "height": 4092,
+    "isRotated": true,
+    "originalWidth": 3069,
+    "originalHeight": 4272
+  },
+  "imagePath": "image-targets/img-dolphin_luminance.jpg",
+  "metadata": null,
+  "name": "img-dolphin",
+  "resources": {
+    "originalImage": "img-dolphin_original.jpg",
+    "croppedImage": "img-dolphin_cropped.jpg",
+    "thumbnailImage": "img-dolphin_thumbnail.jpg",
+    "luminanceImage": "img-dolphin_luminance.jpg"
+  },
+  "created": 1793930514705,
+  "updated": 1793930514705
+}

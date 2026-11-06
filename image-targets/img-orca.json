@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 105,
+    "left": 0,
+    "width": 2434,
+    "height": 3245,
+    "isRotated": true,
+    "originalWidth": 2434,
+    "originalHeight": 3456
+  },
+  "imagePath": "image-targets/img-orca_luminance.jpg",
+  "metadata": null,
+  "name": "img-orca",
+  "resources": {
+    "originalImage": "img-orca_original.jpg",
+    "croppedImage": "img-orca_cropped.jpg",
+    "thumbnailImage": "img-orca_thumbnail.jpg",
+    "luminanceImage": "img-orca_luminance.jpg"
+  },
+  "created": 1793932276843,
+  "updated": 1793932276843
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 282,
+    "left": 0,
+    "width": 3732,
+    "height": 4976,
+    "isRotated": true,
+    "originalWidth": 3732,
+    "originalHeight": 5540
+  },
+  "imagePath": "image-targets/target-audio_luminance.jpg",
+  "metadata": null,
+  "name": "target-audio",
+  "resources": {
+    "originalImage": "target-audio_original.jpg",
+    "croppedImage": "target-audio_cropped.jpg",
+    "thumbnailImage": "target-audio_thumbnail.jpg",
+    "luminanceImage": "target-audio_luminance.jpg"
+  },
+  "created": 1793930019167,
+  "updated": 1793930019167
+}

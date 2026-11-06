@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 361,
+    "left": 0,
+    "width": 4378,
+    "height": 5837,
+    "isRotated": true,
+    "originalWidth": 4378,
+    "originalHeight": 6560
+  },
+  "imagePath": "image-targets/img-turtle_luminance.jpg",
+  "metadata": null,
+  "name": "img-turtle",
+  "resources": {
+    "originalImage": "img-turtle_original.jpg",
+    "croppedImage": "img-turtle_cropped.jpg",
+    "thumbnailImage": "img-turtle_thumbnail.jpg",
+    "luminanceImage": "img-turtle_luminance.jpg"
+  },
+  "created": 1793932305525,
+  "updated": 1793932305525
+}

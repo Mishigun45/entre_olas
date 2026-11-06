@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 3000,
+    "height": 4000,
+    "isRotated": true,
+    "originalWidth": 3000,
+    "originalHeight": 4000
+  },
+  "imagePath": "image-targets/img-raya_luminance.jpg",
+  "metadata": null,
+  "name": "img-raya",
+  "resources": {
+    "originalImage": "img-raya_original.jpg",
+    "croppedImage": "img-raya_cropped.jpg",
+    "thumbnailImage": "img-raya_thumbnail.jpg",
+    "luminanceImage": "img-raya_luminance.jpg"
+  },
+  "created": 1793932239348,
+  "updated": 1793932239348
+}

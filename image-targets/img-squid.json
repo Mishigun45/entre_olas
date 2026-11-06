@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 274,
+    "left": 0,
+    "width": 3285,
+    "height": 4380,
+    "isRotated": true,
+    "originalWidth": 3285,
+    "originalHeight": 4928
+  },
+  "imagePath": "image-targets/img-squid_luminance.jpg",
+  "metadata": null,
+  "name": "img-squid",
+  "resources": {
+    "originalImage": "img-squid_original.jpg",
+    "croppedImage": "img-squid_cropped.jpg",
+    "thumbnailImage": "img-squid_thumbnail.jpg",
+    "luminanceImage": "img-squid_luminance.jpg"
+  },
+  "created": 1793932119271,
+  "updated": 1793932119271
+}

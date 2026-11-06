@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 333,
+    "left": 0,
+    "width": 4000,
+    "height": 5333,
+    "isRotated": true,
+    "originalWidth": 4000,
+    "originalHeight": 6000
+  },
+  "imagePath": "image-targets/christoffer-engstrom-wc9avd2RaN0-unsplash_luminance.jpg",
+  "metadata": null,
+  "name": "christoffer-engstrom-wc9avd2RaN0-unsplash",
+  "resources": {
+    "originalImage": "christoffer-engstrom-wc9avd2RaN0-unsplash_original.jpg",
+    "croppedImage": "christoffer-engstrom-wc9avd2RaN0-unsplash_cropped.jpg",
+    "thumbnailImage": "christoffer-engstrom-wc9avd2RaN0-unsplash_thumbnail.jpg",
+    "luminanceImage": "christoffer-engstrom-wc9avd2RaN0-unsplash_luminance.jpg"
+  },
+  "created": 1793924830391,
+  "updated": 1793924830391
+}

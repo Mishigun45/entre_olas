@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 746,
+    "left": 0,
+    "width": 3353,
+    "height": 4470,
+    "isRotated": true,
+    "originalWidth": 3353,
+    "originalHeight": 5963
+  },
+  "imagePath": "image-targets/img-sword_luminance.jpg",
+  "metadata": null,
+  "name": "img-sword",
+  "resources": {
+    "originalImage": "img-sword_original.jpg",
+    "croppedImage": "img-sword_cropped.jpg",
+    "thumbnailImage": "img-sword_thumbnail.jpg",
+    "luminanceImage": "img-sword_luminance.jpg"
+  },
+  "created": 1793932173114,
+  "updated": 1793932173114
+}

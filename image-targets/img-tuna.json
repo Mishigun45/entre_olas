@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 333,
+    "left": 0,
+    "width": 4000,
+    "height": 5333,
+    "isRotated": true,
+    "originalWidth": 4000,
+    "originalHeight": 6000
+  },
+  "imagePath": "image-targets/img-tuna_luminance.jpg",
+  "metadata": null,
+  "name": "img-tuna",
+  "resources": {
+    "originalImage": "img-tuna_original.jpg",
+    "croppedImage": "img-tuna_cropped.jpg",
+    "thumbnailImage": "img-tuna_thumbnail.jpg",
+    "luminanceImage": "img-tuna_luminance.jpg"
+  },
+  "created": 1793932062258,
+  "updated": 1793932062258
+}

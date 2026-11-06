@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 333,
+    "left": 0,
+    "width": 4000,
+    "height": 5333,
+    "isRotated": true,
+    "originalWidth": 4000,
+    "originalHeight": 6000
+  },
+  "imagePath": "image-targets/target-video_luminance.jpg",
+  "metadata": null,
+  "name": "target-video",
+  "resources": {
+    "originalImage": "target-video_original.jpg",
+    "croppedImage": "target-video_cropped.jpg",
+    "thumbnailImage": "target-video_thumbnail.jpg",
+    "luminanceImage": "target-video_luminance.jpg"
+  },
+  "created": 1793928495969,
+  "updated": 1793928495969
+}
